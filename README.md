@@ -1,0 +1,2 @@
+# VZBot
+VartexZone Roleplay Bot
