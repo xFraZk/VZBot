@@ -11,14 +11,14 @@
 > - Lista de dueños.
 > - Embed estilo diferente que otros.
 
-# V1.10
+# V1.20
 > - Sistema de Nombre y Apellidos DP (Dentro del Personaje) añadidos.
 > - Sistema de administración para aprobar y rechazar nombres DP.
 > - Se agrego un **changelog** donde se subirán todas los cambios de VartexZone Roleplay.
 > - Se eliminaron los comandos de reportes.
 > - Comando ip agregado, pero la ip aún no esta disponible.
 
-# V1.15, Version currently in development and it is possible that version 1.20 of the Bot was released
+# V1.25, Version currently in development and it is possible that version 1.20 of the Bot was released
 > - Se añado comando de Administración.
 > - Comando kick, ban y mute para staff.
 > - Comando de Nombre y Apellido ahora es /na.
