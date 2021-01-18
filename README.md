@@ -18,10 +18,10 @@
 > - Se eliminaron los comandos de reportes.
 > - Comando ip agregado, pero la ip aún no esta disponible.
 
-# V1.25, Version currently in development and it is possible that version 1.20 of the Bot was released
+# V1.25, Version currently in development and it is possible that version 1.30 of the Bot was released
 > - Se añado comando de Administración.
 > - Comando kick, ban y mute para staff.
 > - Comando de Nombre y Apellido ahora es /na.
 
-# V1.20
+# V1.30
 > - Soon...
